@@ -1,12 +1,12 @@
 var gulp = require('gulp'),
-    autoprefixer = require('gulp-autoprefixer'),
-    cssnano = require('gulp-cssnano'),
+    // autoprefixer = require('gulp-autoprefixer'),
+    // cssnano = require('gulp-cssnano'),
     uglify = require('gulp-uglify'),
-    imagemin = require('gulp-imagemin'),
-    rename = require('gulp-rename'),
+    // imagemin = require('gulp-imagemin'),
+    // rename = require('gulp-rename'),
     concat = require('gulp-concat'),
-    cache = require('gulp-cache'),
-    livereload = require('gulp-livereload'),
+    // cache = require('gulp-cache'),
+    // livereload = require('gulp-livereload'),
     del = require('del');
 
 gulp.task('scripts', function () {
