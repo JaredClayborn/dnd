@@ -1,0 +1,27 @@
+{
+  "name": "dnd",
+  "version": "1.0.0",
+  "description": "# Startup  It's simple.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredsCode/dnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaredsCode/dnd/issues"
+  },
+  "homepage": "https://github.com/JaredsCode/dnd#readme"
+}
